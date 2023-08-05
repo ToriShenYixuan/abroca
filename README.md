@@ -5,7 +5,8 @@ Predictive performance fairness analysis metric for model outputs.\
 **Data:** 
 - predicted probabilities
 - actual target
-- sensitive attributes (from metadata).\
+- sensitive attributes (from metadata).
+
 **Output:**
 - ABROCA value
 - p-value from ABROCA permutation test (if number of bootstraps is specified)
